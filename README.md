@@ -4,7 +4,8 @@
 ### The Challenge
 • Make a dynamic app using Custom hooks (It was't necessary but used for learning) </br>
 • Handle input by using useRef  </br>
-• Handle timer by using useEffect
+• Handle timer by using useEffect </br>
+• Handle button against active-inactive states
 
 
 ### Project View
