@@ -22,6 +22,7 @@ button {
   padding: 10px 20px;
   text-transform: uppercase;
   cursor: pointer;
+  font-size: 18px;
 }
 
 h1 {
@@ -39,4 +40,7 @@ textarea {
   background: #00b800;
   padding: 10px;
   font-size: 16px;
+}
+textarea:disabled {
+  background-color: #a5a2a2;
 }
